@@ -1,22 +1,19 @@
-﻿Console.WriteLine("Ako sa voláš?");
-string? meno = Console.ReadLine();
-Console.WriteLine("Ahoj, " + meno);
+﻿Console.BackgroundColor = ConsoleColor.DarkBlue;
+Console.Clear();
 
-Console.WriteLine("Koľko máš rokov?");
-string vstup = Console.ReadLine() ?? "0";
-int vek = int.Parse(vstup);
-Console.WriteLine("Aha mas teda " + vek + " rokov.");
 
-Console.WriteLine("Ake je tvoje oblubene jedlo");
- string food = Console.ReadLine();
-Console.WriteLine("Tvoje oblubene jedlo je " + food);
+Console.WriteLine("Vitaj v kalkulacke");
+Console.WriteLine("Zadaj prve cislo:");
+string?  cislo1 = Console.ReadLine() ?? "0";
+Console.WriteLine("Zadaj druhe cislo:");
+string?  cislo2 = Console.ReadLine() ?? "0";
+int sucet =  int.Parse(cislo1) + int.Parse(cislo2);
+Console.WriteLine($"Suma {cislo1} a {cislo2} je {sucet}"); 
 
-Console.WriteLine("Aká je tvoja výška v metroch?");
-string vyskaText = Console.ReadLine() ?? "0";
-Console.WriteLine("Ok tvoja výška je " + vyskaText + " metrov.");
 
-Console.WriteLgine("Stlac klavesu ENTER pre ukoncenie");
-var key = Console.ReadKey ();
-Console.WriteLine("Stlacena klavesa je " + key.KeyChar);
+
+
+
+
 
 
