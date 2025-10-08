@@ -14,7 +14,7 @@ System.Console.Title = "Kalkulacka v0.1 by Patrik";
 //nacitam druhe cislo
 //nacitam operaciu
 //vypisem vysledok
-Console.WriteLine("Vytaj v kalkulacke");
+Console.WriteLine("Vitaj v kalkulacke");
 Console.WriteLine("Zadaj prve cislo");
 double prveCislo = double.Parse(Console.ReadLine());
 Console.WriteLine("Zadaj druhe cislo");
