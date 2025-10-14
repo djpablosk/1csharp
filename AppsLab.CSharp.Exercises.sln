@@ -101,6 +101,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kalkulacka", "Kalkulacka\Ka
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kalkulackaa", "Kalkulackaa\Kalkulackaa.csproj", "{ED059B73-649D-4B78-943D-A3B6A933706C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "monday", "monday\monday.csproj", "{938BFD03-B71D-4EEE-AAAE-0F8DB54874AA}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -675,6 +677,18 @@ Global
 		{ED059B73-649D-4B78-943D-A3B6A933706C}.Release|x64.Build.0 = Release|Any CPU
 		{ED059B73-649D-4B78-943D-A3B6A933706C}.Release|x86.ActiveCfg = Release|Any CPU
 		{ED059B73-649D-4B78-943D-A3B6A933706C}.Release|x86.Build.0 = Release|Any CPU
+		{938BFD03-B71D-4EEE-AAAE-0F8DB54874AA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{938BFD03-B71D-4EEE-AAAE-0F8DB54874AA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{938BFD03-B71D-4EEE-AAAE-0F8DB54874AA}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{938BFD03-B71D-4EEE-AAAE-0F8DB54874AA}.Debug|x64.Build.0 = Debug|Any CPU
+		{938BFD03-B71D-4EEE-AAAE-0F8DB54874AA}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{938BFD03-B71D-4EEE-AAAE-0F8DB54874AA}.Debug|x86.Build.0 = Debug|Any CPU
+		{938BFD03-B71D-4EEE-AAAE-0F8DB54874AA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{938BFD03-B71D-4EEE-AAAE-0F8DB54874AA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{938BFD03-B71D-4EEE-AAAE-0F8DB54874AA}.Release|x64.ActiveCfg = Release|Any CPU
+		{938BFD03-B71D-4EEE-AAAE-0F8DB54874AA}.Release|x64.Build.0 = Release|Any CPU
+		{938BFD03-B71D-4EEE-AAAE-0F8DB54874AA}.Release|x86.ActiveCfg = Release|Any CPU
+		{938BFD03-B71D-4EEE-AAAE-0F8DB54874AA}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
