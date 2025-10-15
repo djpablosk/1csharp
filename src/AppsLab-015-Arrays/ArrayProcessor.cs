@@ -59,6 +59,8 @@ public class ArrayProcessor
     /// <returns>Length of the array.</returns>
     public int GetLength(int[] numbers)
     {
+        if (numbers == null)
+            return 0;
         return numbers.Length;
     }
 }

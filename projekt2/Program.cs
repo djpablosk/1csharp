@@ -1,6 +1,4 @@
-﻿srting text = "quenty";
-
-
+﻿for ()
 
 
 
